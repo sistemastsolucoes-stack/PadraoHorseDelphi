@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="p-8">
-      <h1>Meu Web Teste Atualização feature 2.0</h1>
+      <h1>Meu Web Teste Atualização feature 2.0 Main é mais atual</h1>
 
       <Link href="/outra-pagina"
            className="mt-4 rounded bg-blue-600 px-4 py-2 text-white">
